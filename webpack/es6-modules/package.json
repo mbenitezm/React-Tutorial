@@ -8,7 +8,9 @@
       "es2015",
       "stage-0"
     ],
-    "plugins": ["transform-es2015-modules-commonjs"]
+    "plugins": [
+      "transform-es2015-modules-commonjs"
+    ]
   },
   "dependencies": {
     "babel-cli": "6.22.2",
